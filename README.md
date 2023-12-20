@@ -1,5 +1,5 @@
 - 👋 Hello, this is @JUN20483
-- 🙌 I’m interested in programming and hacking.
+- 🙌 I'm interested in programming, hacking, and games.
 - 🌱 I am currently learning C++, C, Python, and Kali Linux.
 - 📫 How to contact me on Discord
 <!---
